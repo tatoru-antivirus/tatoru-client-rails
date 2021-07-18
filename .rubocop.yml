@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - Guardfile
+    - spec/dummy/**/*
+    - spec/*.rb
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
