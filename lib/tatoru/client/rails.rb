@@ -1,4 +1,4 @@
-require "tatoru_client"
+require "tatoru-client"
 require "tatoru/client/rails/engine"
 
 module Tatoru
